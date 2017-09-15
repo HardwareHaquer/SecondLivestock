@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/OVR/Editor/OVRPlayerControllerEditor.cs">
+    <Files>
+      <File FileName="Assets/OVR/Scripts/OVRPlayerController.cs" Line="72" Column="2" />
+      <File FileName="Assets/Scripts/HUD.cs" Line="1" Column="1" />
+      <File FileName="Assets/OVR/Scripts/OVRPlayerController.cs" Line="354" Column="4" />
+      <File FileName="Assets/Scripts/ReturnToSpawn.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PondBackTeleport.js" Line="1" Column="1" />
+      <File FileName="Assets/OVR/Editor/OVRPlayerControllerEditor.cs" Line="84" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
